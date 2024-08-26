@@ -1,9 +1,9 @@
 :root {
 	--bg-color:  #e5e8eb;
-	--btn-primary: #0a071c;
-	--btn-secondary: #a14081;
-	--secondary: #a14081;
-	--navbar-bg: #48007e;
+	--btn-primary: #1d1454;
+	--btn-secondary: #562847;
+	--secondary: #562847;
+	--navbar-bg: #2f0252;
 	--text-btn-color: white;
 	--table-border-color: #1c070738;
 	--btn-default-hover-bg: white;
@@ -198,7 +198,7 @@ option {
 }
 
 .grid-row-open{
-	box-shadow: 0 0 0 3px #48007e !important;
+	box-shadow: 0 0 0 3px #2f0252 !important;
 }
 
 .awesomplete [role="option"]:hover,  .awesomplete li:hover{
@@ -273,14 +273,14 @@ input[type="checkbox"]:checked {
 }
 
 .btn.btn-new-doc{
-	background-color: #48007e !important;
+	background-color: #2f0252 !important;
 	color: var(--text-btn-color);
-	border: solid 2px #48007e !important;
+	border: solid 2px #2f0252 !important;
 }
 
 .btn.btn-new-doc:hover{
 	background: var(--btn-default-hover-bg) !important;
-	border: solid 2px #48007e !important;
+	border: solid 2px #2f0252 !important;
 	color: var(--text-color);
 }
 
